@@ -1,0 +1,33 @@
+footer div a:hover {
+    font-weight: bolder;
+    background-color: #1d1e25;
+}
+footer div  p:hover {
+    font-weight: bolder;
+    background-color: #1d1e25;
+}
+footer a img{
+    border-radius: 60px;
+}
+
+header nav a  :hover{
+    font-weight: bolder;
+    background-color: #ff5555;
+}
+#hob h2 {
+   color: #ffb86c; 
+}
+#hob p{
+    color: #50fa7b;
+}
+
+#project h2{
+    color: #bd93f9;
+}
+#project p{
+    color: #ffb86c;
+}
+
+#intro a:hover{
+    font-weight: bolder;
+}
